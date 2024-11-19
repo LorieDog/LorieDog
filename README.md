@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LorieDog
 - 👀 I’m interested in STUFF
-- 🌱 I’m currently learning PYTHOB
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ??????
 - 📫 How to reach me ?????
 - 😄 Pronouns: SHE/HER
